@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14817" started-at="2018-02-17T17:25:39Z" finished-at="2018-02-17T17:25:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14817" started-at="2018-02-17T17:25:39Z" finished-at="2018-02-17T17:25:54Z">
+      <class name="com.dixter.test.regression.TestSearchU1">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="preCondition" is-config="true" duration-ms="6358" started-at="2018-02-17T11:25:25Z" finished-at="2018-02-17T11:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testSearchjavaTC1()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="testSearchjavaTC1" duration-ms="1156" started-at="2018-02-17T11:25:31Z" finished-at="2018-02-17T11:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchjavaTC1 -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="postCondition" is-config="true" duration-ms="79" started-at="2018-02-17T11:25:32Z" finished-at="2018-02-17T11:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="preCondition" is-config="true" duration-ms="6076" started-at="2018-02-17T11:25:32Z" finished-at="2018-02-17T11:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testSearchjavafreeTC2()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="testSearchjavafreeTC2" duration-ms="360" started-at="2018-02-17T11:25:38Z" finished-at="2018-02-17T11:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchjavafreeTC2 -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="postCondition" is-config="true" duration-ms="82" started-at="2018-02-17T11:25:39Z" finished-at="2018-02-17T11:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="preCondition" is-config="true" duration-ms="5019" started-at="2018-02-17T11:25:39Z" finished-at="2018-02-17T11:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testSearchjavaTC1()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="testSearchjavaTC1" duration-ms="1072" started-at="2018-02-17T11:25:44Z" finished-at="2018-02-17T11:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchjavaTC1 -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="postCondition" is-config="true" duration-ms="56" started-at="2018-02-17T11:25:45Z" finished-at="2018-02-17T11:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="preCondition" is-config="true" duration-ms="5973" started-at="2018-02-17T11:25:45Z" finished-at="2018-02-17T11:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testSearchjavafreeTC2()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="testSearchjavafreeTC2" duration-ms="312" started-at="2018-02-17T11:25:51Z" finished-at="2018-02-17T11:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchjavafreeTC2 -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:com.dixter.test.regression.TestSearchU1@96532d6]" name="postCondition" is-config="true" duration-ms="2368" started-at="2018-02-17T11:25:51Z" finished-at="2018-02-17T11:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.dixter.test.regression.TestSearchU1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
